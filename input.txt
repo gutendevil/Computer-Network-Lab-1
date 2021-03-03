@@ -1,0 +1,22 @@
+insert 20 2
+insert 35 1
+insert 42 3
+insert 15 2
+insert 6 1
+insert 12 4
+insert 48 2
+insert 19 3
+insert 100 5
+insert 1 1
+insert 41 1
+insert 70 4
+insert 20 5
+insert 30 1
+insert 40 5
+display
+delete 3
+delete 2
+display
+insert 59 6
+insert 17 3
+display
